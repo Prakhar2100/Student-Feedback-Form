@@ -13,4 +13,4 @@
 
 
 ## Description
-Student-Feedback form which records student's feeback for the subjects mentioned in terms of rating.  
+Student-Feedback form which records students' feeback for the subjects mentioned in terms of rating.  
